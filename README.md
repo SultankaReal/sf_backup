@@ -25,4 +25,4 @@ Bash-script backup.sh сжимает файл в tar.gz и отправляет 
 ## Примечание:
 
 
-Необходимо сгенерировать пароль для Яндекс аккаунта здесь: https://passport.yandex.ru/profnanoile/access
+Необходимо сгенерировать пароль для WebDAV-клиента Яндекс.Диска здесь: https://passport.yandex.ru/profnanoile/access
