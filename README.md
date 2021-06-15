@@ -1,6 +1,13 @@
+## Описание:
 
 
+Bash-script backup.sh сжимает файл в tar.gz и отправляет на Яндекс Диск
 
+
+## Запуск скрипта: 
+
+
+./backup.sh /home/nursultan/some_file.txt ($1 - это параметр c some_file.txt)
 
 
 ## До скрипта:
